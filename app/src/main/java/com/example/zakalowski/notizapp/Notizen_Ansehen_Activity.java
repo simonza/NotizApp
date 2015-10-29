@@ -22,6 +22,10 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 
+/*
+*   TEST FOR GITHUB
+ */
+
 public class Notizen_Ansehen_Activity extends AppCompatActivity {
 
     ListView listView;
