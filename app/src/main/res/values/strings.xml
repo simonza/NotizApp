@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotizApp</string>
+    <string name="title_activity_notizen__ansehen_">Notizen ansehen</string>
+    <string name="title_activity_edit__notes_">Notizen bearbeiten</string>
+</resources>
